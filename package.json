@@ -1,0 +1,12 @@
+{
+  "name": "webdav-testserver",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "form-data": "^2.3.3",
+    "webdav-server": "^2.4.6",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

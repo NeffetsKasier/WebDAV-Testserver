@@ -1,0 +1,6 @@
+---
+applications:
+- name: webdav-testserver
+  memory: 128M
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git
+  instances: 1
